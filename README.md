@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-Sleek summer inspired theme designed to be pleasant on the eyes and comfortable for extended sessions. Syntax is colored for quick recognition and better readability. Tangerine accents add a touch of tasteful color to your editor.
+Sleek summer inspired theme designed to be pleasant on the eyes and comfortable for extended sessions. Syntax is colored for quick text recognition and better readability. Tangerine accents add a touch of tasteful color to your editor.
 </p>
 
 <br>
@@ -26,7 +26,7 @@ Sleek summer inspired theme designed to be pleasant on the eyes and comfortable 
 
 ## Installation Guide
 
-1. Open the **Extensions** panel in VSCode.
+1. Open the **Extensions** panel in VSCode
 2. Search for `Summer Theme` & click **Install**
 3. Open the **Command Palette** with `Ctrl+Shift+P` or `⇧⌘P`
 4. Select **Preferences: Color Theme** and choose `Summer Theme`
@@ -39,6 +39,6 @@ Sleek summer inspired theme designed to be pleasant on the eyes and comfortable 
 
 ---
 
-<p align="center">This is my first extension, I hope you enjoy using it, please let me know if there are any issues! </p>
+<p align="center">This is my first extension, I hope you enjoy using it, you are welcome to let me know if there are any issues! </p>
 
-<p align="center"> I'll add a light mode version of the theme if there is a demand for it. 🧡</p>
+<p align="center"> I might add a light mode version of the theme if there is a demand for it. 🧡</p>
